@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NF-e Scanner</string>
+
+    <string name="scanner_title">NF-e Scanner</string>
+    <string name="scan_instruction">Centralize o código de barras ou QR Code dentro da área indicada</string>
+    <string name="key_length_hint">Código danificado? Deixe também os 44 caracteres impressos visíveis</string>
+    <string name="enter_manually">Digitar chave</string>
+    <string name="turn_flash_on">Ligar lanterna</string>
+    <string name="turn_flash_off">Desligar lanterna</string>
+    <string name="camera_error">Não foi possível iniciar a câmera.</string>
+
+    <string name="permission_title">Permissão da câmera</string>
+    <string name="permission_body">A câmera é usada somente para ler o código da nota. Você também pode digitar a chave manualmente.</string>
+    <string name="permission_permanently_denied">A permissão foi bloqueada. Abra as configurações do Android para liberar a câmera.</string>
+    <string name="grant_permission">Permitir câmera</string>
+    <string name="open_settings">Abrir configurações</string>
+
+    <string name="manual_dialog_title">Digite a chave de acesso</string>
+    <string name="access_key_label">Chave de acesso</string>
+    <string name="manual_key_support">Aceita chave numérica ou alfanumérica, com ou sem espaços.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="continue_action">Continuar</string>
+    <string name="invalid_key">Chave inválida. Confira os 44 caracteres e o dígito verificador.</string>
+
+    <string name="result_title">Chave encontrada</string>
+    <string name="valid_key">Chave validada</string>
+    <string name="document_type">Documento</string>
+    <string name="model_nfe">NF-e · modelo 55</string>
+    <string name="model_nfce">NFC-e · modelo 65</string>
+    <string name="consult_nfe">Consultar no portal</string>
+    <string name="scan_another">Ler outra nota</string>
+    <string name="copy_key">Copiar chave</string>
+    <string name="copied">Chave copiada</string>
+    <string name="captcha_notice">A chave será preenchida automaticamente. O hCaptcha e o botão Consultar permanecem sob controle do usuário.</string>
+
+    <string name="portal_title">Portal da NF-e</string>
+    <string name="reload">Recarregar</string>
+    <string name="open_browser">Abrir no navegador</string>
+    <string name="field_fill_failed">O portal abriu, mas o campo da chave não foi localizado. Você pode colar a chave manualmente.</string>
+    <string name="portal_error">Não foi possível carregar o Portal da NF-e.</string>
+    <string name="back">Voltar</string>
+</resources>
